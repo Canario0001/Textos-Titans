@@ -1,4 +1,4 @@
-# Textos gigantes
+# Textos Titans
 
 O programa é uma página comum em HTML que permite o usuário escrever o que quiser numa fonte grande. Além disso, é possível salvar os textos em até 4 espaços, por enquanto.
 
